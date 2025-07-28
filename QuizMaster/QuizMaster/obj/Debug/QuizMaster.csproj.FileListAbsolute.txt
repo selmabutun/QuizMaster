@@ -1,0 +1,10 @@
+D:\ISYAZILIM\QuizMaster\QuizMaster\bin\Debug\QuizMaster.exe.config
+D:\ISYAZILIM\QuizMaster\QuizMaster\bin\Debug\QuizMaster.exe
+D:\ISYAZILIM\QuizMaster\QuizMaster\bin\Debug\QuizMaster.pdb
+D:\ISYAZILIM\QuizMaster\QuizMaster\obj\Debug\QuizMaster.csproj.AssemblyReference.cache
+D:\ISYAZILIM\QuizMaster\QuizMaster\obj\Debug\QuizMaster.Form1.resources
+D:\ISYAZILIM\QuizMaster\QuizMaster\obj\Debug\QuizMaster.Properties.Resources.resources
+D:\ISYAZILIM\QuizMaster\QuizMaster\obj\Debug\QuizMaster.csproj.GenerateResource.cache
+D:\ISYAZILIM\QuizMaster\QuizMaster\obj\Debug\QuizMaster.csproj.CoreCompileInputs.cache
+D:\ISYAZILIM\QuizMaster\QuizMaster\obj\Debug\QuizMaster.exe
+D:\ISYAZILIM\QuizMaster\QuizMaster\obj\Debug\QuizMaster.pdb
